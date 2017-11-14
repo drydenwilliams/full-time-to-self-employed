@@ -11,17 +11,6 @@ It's not easy starting a business if you've never studied it or been around one 
 ### Dividend 
 > a sum of money paid regularly (typically annually) by a company to its shareholders out of its profits (or reserves)
 
-### Income Tax rates and bands
-
-The table shows the tax rates you pay in each band if you have a standard Personal Allowance of £11,500.
-
-| Band        | Taxable income           | Tax rate  |
-| ------------- |:-------------:| -----:|
-| Personal Allowance | Up to £11,500 | 0% |
-| Basic rate | £11,501 to £45,000 | 20% |
-| Higher rate | £45,001 to £150,000 | 40% |
-| Additional rate	over | over £150,000 | 45% |
-
 ### Payroll 
 
 > A payroll is a company's list of its employees, but the term is commonly used to refer to: the total amount of money that a company pays to its employees a company's records of its employees' salaries
@@ -50,6 +39,17 @@ At the same time your employer must also deduct employee's National Insurance fr
 * **CT600:** to file a Company Tax Return for accounting periods starting on or after 1 April 2015.
 
 ## Taxes
+
+### Income Tax rates and bands
+
+The table shows the tax rates you pay in each band if you have a standard Personal Allowance of £11,500.
+
+| Band        | Taxable income           | Tax rate  |
+| ------------- |:-------------:| -----:|
+| Personal Allowance | Up to £11,500 | 0% |
+| Basic rate | £11,501 to £45,000 | 20% |
+| Higher rate | £45,001 to £150,000 | 40% |
+| Additional rate	over | over £150,000 | 45% |
 
 ### [Value Added Tax (VAT)](https://www.sage.com/en-gb/blog/what-is-vat-uk-vat-basics-from-sage/)
 
