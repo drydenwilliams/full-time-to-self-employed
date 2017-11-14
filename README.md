@@ -1,9 +1,6 @@
 > A viable company should show a profit, generate an adequate return on its capital, and make surplus cash so it can be able to reinvest. - Luke Johnson, The Sunday Times
 
-## Aggreements: 
-
-* **Service Level Agreement (SLA)**: is a contract between a service provider and its internal or external customers that documents what services the provider will furnish and defines the performance standards the provider is obligated to meet.
-* **Non-disclosure agreements (NDA)** 
+It's not easy starting a business if you've never studied it or been around one before. There are loads of terms that our extremely confusing. I've created this document to hopfully helpout with some terms and things to rememeber.
 
 ## Lingo
 
@@ -90,3 +87,9 @@ Even if you are under the VAT threshold, registering for VAT might boost your pr
 > The Corporation Tax rate for company profits is 19% *2017*
 
 **NOTE:** Do this each tax year
+
+
+## Aggreements: 
+
+* **Service Level Agreement (SLA)**: is a contract between a service provider and its internal or external customers that documents what services the provider will furnish and defines the performance standards the provider is obligated to meet.
+* **Non-disclosure agreements (NDA)** 
