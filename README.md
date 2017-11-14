@@ -59,11 +59,32 @@ At the same time your employer must also deduct employee's National Insurance fr
 
 ## Taxes
 
-### VAT
+### [Value Added Tax (VAT)](https://www.sage.com/en-gb/blog/what-is-vat-uk-vat-basics-from-sage/)
 
-> Registering for VAT means you need to charge your customers VAT. But if your customers are VAT registered businesses they can reclaim the VAT you have charged. It also means you can reclaim any VAT you pay, so reducing your costs.
+> **VAT** is levied on most goods and services provided by registered businesses in the UK and some goods and services imported from outside the European Union. There are complex regulations for goods and services imported from within the EU. The default **VAT** rate is the standard rate, 20% since 4 January 2011.
 
-**NOTE:** Do this every quater
+As a business, you are probably charged VAT on most of the goods and services you buy. That means charging your customers VAT, keeping VAT records and paying the VAT you’ve collected to HMRC.
+
+Businesses add VAT to the price they charge when they provide goods and services.
+
+This applies to both business and non-business customers. For example:
+
+* A flower wholesaler will add VAT to the amount they charge a florist
+* A beauty salon will include VAT in the price they charge to their customers
+
+#### How will I know when to register for VAT?
+
+If you’ve just started in business or have a relatively low turnover, you’re not required to register for VAT. This means you can’t reclaim the VAT you pay when you purchase goods and services.
+
+You will need to register for VAT if your business grows and annual sales of taxable goods and services reach the £82,000 VAT threshold or you expect a taxable turnover of more than £82,000 in the next 30 days.
+
+Registering for VAT means you need to charge your customers VAT. But if your customers are VAT registered businesses they can reclaim the VAT you have charged. It also means you can reclaim any VAT you pay, so reducing your costs.
+
+Rather than paying HMRC all the VAT you collect from your customers, you first deduct the VAT you have been charged on the business supplies you have bought.
+
+Even if you are under the VAT threshold, registering for VAT might boost your profits and can give your business the appearance of being bigger and more established.
+
+**NOTE:** Pay VAT every quarter
 
 ### Income tax
 
