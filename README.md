@@ -19,7 +19,6 @@ One of the most important things that sound really obvisious is getting your acc
 
 ### [PAYE](https://www.freeagent.com/glossary/PAYE/)
 
-
 > PAYE is short for Pay As You Earn. It's not a tax in its own right, it's a system that HMRC use to collect income tax.
 
 The PAYE system is HM Revenue and Customs' ( HMRC ) system is used to collect tax from certain sources of income, such as wages, and private pensions, Income Tax and National Insurance from employment.
@@ -33,12 +32,6 @@ If your only income is a salary of £25,000 a year, and you are entitled to a pe
 Your employer must deduct this tax from your monthly wages and pay it over to HMRC.
 
 At the same time your employer must also deduct employee's National Insurance from your wages and pay that over to HMRC too.
-
-## Forms
-
-* **P60:** The P60 summarises their total pay and deductions for the year.
-* **P45:** You need to tell HM Revenue and Customs (HMRC) when one of your employees leaves or retires, and deduct and pay the right tax and National Insurance.
-* **CT600:** to file a Company Tax Return for accounting periods starting on or after 1 April 2015.
 
 ## Taxes
 
@@ -88,7 +81,14 @@ Income Tax is tax that's payable on an individual's income, which includes their
 
 The Self Assessment tax return adds up all your taxable income and all the tax you’ve paid so far. The figure it generates is the amount of Income Tax you have to pay by 31st January. You may also have to make a payment on account on 31st July.
 
+### Self Assesment
+
+> Self Assessment is a system HM Revenue and Customs (HMRC) uses to collect Income Tax.
+
+Tax is usually deducted automatically from wages, pensions and savings. People and businesses with other income must report it in a tax return.
+
 ### National Insurance
+
 National Insurance is a tax in all but name! It’s money that you pay to the government, which entitles you to receive certain state benefits, such as the State Pension. You pay National Insurance on certain kinds of income, such as salary from a job or earnings from a business, once this income goes above a certain level each year. National Insurance isn’t due on all kinds of income; you don’t pay it on dividends, for example.
 
 National Insurance is divided into different classes, depending on what kind of income you’re earning:
@@ -96,10 +96,6 @@ National Insurance is divided into different classes, depending on what kind of 
 * If you’re self-employed, you pay a flat weekly rate of National Insurance, called Class 2. From the 2015/16 tax year onwards, you will need to include your Class 2 National Insurance liability on your Self Assessment form and pay it through your tax return by the 31st January each year.
 * If you’re self-employed you also need to pay Class 4 National Insurance on your business’s profits. Class 4 National Insurance is both calculated and paid through your tax return.
 * If you earn a salary, you will need to pay Class 1 National Insurance. Your employer will automatically deduct Class 1 National insurance from your wages before you are paid, and will pass this amount on to HMRC. You don’t have to put Class 1 National Insurance on your tax return because it's already been deducted from your wages and paid to HMRC by your employer.
-
-
-
-### Self Assesment 
 
 
 ### Corporation tax
@@ -120,6 +116,12 @@ A capital asset is an asset that will be useful to your business over a long per
 
 Capital allowances are a means of saving tax when your business buys a capital asset. If you claim capital allowances during the course of the accounting year, you will need to declare it on your Self Assessment tax return.
 
+## Forms
+
+* **P60:** The P60 summarises their total pay and deductions for the year.
+* **P45:** You need to tell HM Revenue and Customs (HMRC) when one of your employees leaves or retires, and deduct and pay the right tax and National Insurance.
+* **CT600:** to file a Company Tax Return for accounting periods starting on or after 1 April 2015.
+
 
 ## Aggreements: 
 
@@ -129,3 +131,4 @@ Capital allowances are a means of saving tax when your business buys a capital a
 ## Resources
 
 * [How to go Freelance](https://www.creativeboom.com/tips/how-to-go-freelance-step-by-step-guide/)
+* [Businesses and charging VAT](https://www.gov.uk/vat-businesses)
