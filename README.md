@@ -2,6 +2,8 @@
 
 It's not easy starting a business if you've never studied it or been around one before. There are loads of terms that our extremely confusing. I've created this document to hopfully helpout with some terms and things to rememeber.
 
+One of the most important things that sound really obvisious is getting your accounts in order. As a freelancer or a business this is a must. There is some great software to help with this and I like [Freeagent](https://www.freeagent.com/).
+
 ## Lingo
 
 ### Salary 
@@ -82,14 +84,48 @@ Even if you are under the VAT threshold, registering for VAT might boost your pr
 
 > tax levied directly on personal income
 
+Income Tax is tax that's payable on an individual's income, which includes their taxable profit. Every individual can receive a certain amount of income tax-free each year; this is the Personal Allowance. You pay Income Tax on any income you receive in a tax year over and above your Personal Allowance.
+
+The Self Assessment tax return adds up all your taxable income and all the tax you’ve paid so far. The figure it generates is the amount of Income Tax you have to pay by 31st January. You may also have to make a payment on account on 31st July.
+
+### National Insurance
+National Insurance is a tax in all but name! It’s money that you pay to the government, which entitles you to receive certain state benefits, such as the State Pension. You pay National Insurance on certain kinds of income, such as salary from a job or earnings from a business, once this income goes above a certain level each year. National Insurance isn’t due on all kinds of income; you don’t pay it on dividends, for example.
+
+National Insurance is divided into different classes, depending on what kind of income you’re earning:
+
+* If you’re self-employed, you pay a flat weekly rate of National Insurance, called Class 2. From the 2015/16 tax year onwards, you will need to include your Class 2 National Insurance liability on your Self Assessment form and pay it through your tax return by the 31st January each year.
+* If you’re self-employed you also need to pay Class 4 National Insurance on your business’s profits. Class 4 National Insurance is both calculated and paid through your tax return.
+* If you earn a salary, you will need to pay Class 1 National Insurance. Your employer will automatically deduct Class 1 National insurance from your wages before you are paid, and will pass this amount on to HMRC. You don’t have to put Class 1 National Insurance on your tax return because it's already been deducted from your wages and paid to HMRC by your employer.
+
+
+
+### Self Assesment 
+
+
 ### Corporation tax
 
 > The Corporation Tax rate for company profits is 19% *2017*
 
 **NOTE:** Do this each tax year
 
+### Taxable profit
+Your profit is the amount that your business has left over once its day-to-day running costs have been subtracted from its income. In your business’s accounts, this information is illustrated in your profit and loss report.
+
+If you’re self-employed, you need to pay tax on your "taxable profit" as part of your Income Tax liability. Taxable profit is an adjusted profit figure that's calculated through your tax return each year.
+
+
+
+### Capital assets
+A capital asset is an asset that will be useful to your business over a long period of time (usually more than two years) and costs more than your usual day-to-day running costs. If your business purchases capital assets during the course of the accounting year, you will need to declare them on your Self Assessment tax return.
+
+Capital allowances are a means of saving tax when your business buys a capital asset. If you claim capital allowances during the course of the accounting year, you will need to declare it on your Self Assessment tax return.
+
 
 ## Aggreements: 
 
 * **Service Level Agreement (SLA)**: is a contract between a service provider and its internal or external customers that documents what services the provider will furnish and defines the performance standards the provider is obligated to meet.
 * **Non-disclosure agreements (NDA)** 
+
+## Resources
+
+* [How to go Freelance](https://www.creativeboom.com/tips/how-to-go-freelance-step-by-step-guide/)
