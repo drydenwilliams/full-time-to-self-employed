@@ -5,13 +5,19 @@ A document to get you up to speed with company lingo
 
 > A viable company should show a profit, generate an adequate return on its capital, and make surplus cash so it can be able to reinvest. - Luke Johnson, The Sunday Times
 
-## Lingo:
+## Aggreements: 
 
-* **Dividend:** a sum of money paid regularly (typically annually) by a company to its shareholders out of its profits (or reserves)
-* **Salary:**
-* **Payroll** 
-* **PAYE:** PAYE is HM Revenue and Customs' ( HMRC ) system to collect Income Tax and National Insurance from employment
 * **Service Level Agreement (SLA)**: is a contract between a service provider and its internal or external customers that documents what services the provider will furnish and defines the performance standards the provider is obligated to meet.
+* **Non-disclosure agreements (NDA)** 
+
+## Lingo
+
+### Salary 
+
+> a fixed regular payment, typically paid on a monthly basis but often expressed as an annual sum, made by an employer to an employee
+
+### Dividend 
+> a sum of money paid regularly (typically annually) by a company to its shareholders out of its profits (or reserves)
 
 ### Income Tax rates and bands
 
@@ -24,6 +30,9 @@ The table shows the tax rates you pay in each band if you have a standard Person
 | Higher rate | £45,001 to £150,000 | 40% |
 | Additional rate	over | over £150,000 | 45% |
 
+### Payroll 
+
+> A payroll is a company's list of its employees, but the term is commonly used to refer to: the total amount of money that a company pays to its employees a company's records of its employees' salaries
 
 ### [PAYE](https://www.freeagent.com/glossary/PAYE/)
 
@@ -50,4 +59,18 @@ At the same time your employer must also deduct employee's National Insurance fr
 
 ## Taxes
 
-* **Corporation tax:** The Corporation Tax rate for company profits is 19% *2017*
+### VAT
+
+> Registering for VAT means you need to charge your customers VAT. But if your customers are VAT registered businesses they can reclaim the VAT you have charged. It also means you can reclaim any VAT you pay, so reducing your costs.
+
+**NOTE:** Do this every quater
+
+### Income tax
+
+> tax levied directly on personal income
+
+### Corporation tax
+
+> The Corporation Tax rate for company profits is 19% *2017*
+
+**NOTE:** Do this each tax year
