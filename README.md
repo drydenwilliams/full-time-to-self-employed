@@ -33,6 +33,15 @@ Your employer must deduct this tax from your monthly wages and pay it over to HM
 
 At the same time your employer must also deduct employee's National Insurance from your wages and pay that over to HMRC too.
 
+#### How to Prepare current month payroll report in [FreeAgent](https://support.freeagent.com/hc/en-gb/articles/115001219450-Setting-up-and-running-payroll)
+
+1. Navigate to "my money" > "Payroll"
+2. Click "Prepare Month x Payroll"
+3. Review the payroll preview
+4. Check the date of payment first, it should be last friday or last day of the month (you can choose)
+5. Click "Run & Report Month x Payroll"
+6. Sign in to Government Gateway using your business ID
+
 
 ### [What are assets?](https://www.freeagent.com/glossary/assets/)
 > Assets are what a business owns.
