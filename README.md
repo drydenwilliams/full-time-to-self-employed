@@ -4,13 +4,28 @@ It's not easy starting a business if you've never studied it or been around one 
 
 One of the most important things that sound really obvisious is getting your accounts in order. As a freelancer or a business this is a must. There is some great software to help with this and I like [Freeagent](https://www.freeagent.com/).
 
+## Important things to do
+
+### Each Month
+* [Salary](#salary)
+* [Dividend](#dividend)
+* [PAYE / NI contributions](#paye)
+
+### Each Quarter
+
+* [VAT](#vat)
+
+### Each Year
+
+* [Corporation tax](#corporation)
+
 ## Lingo
 
-### Salary 
+### <a name="salary"></a>Salary
 
 > a fixed regular payment, typically paid on a monthly basis but often expressed as an annual sum, made by an employer to an employee
 
-### Dividend 
+### <a name="dividend"></a>Dividend
 > A dividend is a sum of money that a limited company pays out to someone who owns shares in the company, i.e. a shareholder.
 
 ### Payroll 
@@ -26,7 +41,7 @@ One of the most important things that sound really obvisious is getting your acc
 5. Click "Run & Report Month x Payroll"
 6. Sign in to Government Gateway using your business ID
 
-### [PAYE](https://www.freeagent.com/glossary/PAYE/)
+### <a name="paye"></a>[PAYE](https://www.freeagent.com/glossary/PAYE/)
 
 > PAYE is short for Pay As You Earn. It's not a tax in its own right, it's a system that HMRC use to collect income tax.
 
@@ -82,7 +97,7 @@ The table shows the tax rates you pay in each band if you have a standard Person
 | Higher rate | £45,001 to £150,000 | 40% |
 | Additional rate	over | over £150,000 | 45% |
 
-### [Value Added Tax (VAT)](https://www.sage.com/en-gb/blog/what-is-vat-uk-vat-basics-from-sage/)
+### <a name="vat"></a>[Value Added Tax (VAT)](https://www.sage.com/en-gb/blog/what-is-vat-uk-vat-basics-from-sage/)
 
 > **VAT** is levied on most goods and services provided by registered businesses in the UK and some goods and services imported from outside the European Union. There are complex regulations for goods and services imported from within the EU. The default **VAT** rate is the standard rate, 20% since 4 January 2011.
 
@@ -139,7 +154,7 @@ National Insurance is divided into different classes, depending on what kind of 
 * If you earn a salary, you will need to pay Class 1 National Insurance. Your employer will automatically deduct Class 1 National insurance from your wages before you are paid, and will pass this amount on to HMRC. You don’t have to put Class 1 National Insurance on your tax return because it's already been deducted from your wages and paid to HMRC by your employer.
 
 
-### Corporation tax
+### <a name="corporation"></a>Corporation Tax
 
 > The Corporation Tax rate for company profits is 19% *2017*
 
