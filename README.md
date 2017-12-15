@@ -172,6 +172,14 @@ A capital asset is an asset that will be useful to your business over a long per
 
 Capital allowances are a means of saving tax when your business buys a capital asset. If you claim capital allowances during the course of the accounting year, you will need to declare it on your Self Assessment tax return.
 
+### WIP - How do you calculate how much to give as salary and dividend should be paid?
+How ever much you want is based upon the profits so far this financial year and based upon our run rate of X thousand per month.
+
+The Salary takes into account the personal tax limit. If you notice that you get paid 11k/12 = ~£960pm which is tax free. 
+Everything paid by dividend them comes under the 50k upper tax bracket. But... dividend tax is less. 
+
+**Note:** A dividend can only be paid if the company has profit
+
 ## Forms
 
 * **P60:** The P60 summarises their total pay and deductions for the year.
