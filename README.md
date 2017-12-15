@@ -1,4 +1,4 @@
-> A viable company should show a profit, generate an adequate return on its capital, and make surplus cash so it can be able to reinvest. - Luke Johnson, The Sunday Times
+# Company Info
 
 It's not easy starting a business if you've never studied it or been around one before. There are loads of terms that our extremely confusing. I've created this document to hopfully helpout with some terms and things to rememeber.
 
@@ -173,3 +173,7 @@ Capital allowances are a means of saving tax when your business buys a capital a
 
 * [How to go Freelance](https://www.creativeboom.com/tips/how-to-go-freelance-step-by-step-guide/)
 * [Businesses and charging VAT](https://www.gov.uk/vat-businesses)
+
+## What should a business achieve 
+
+> A viable company should show a profit, generate an adequate return on its capital, and make surplus cash so it can be able to reinvest. - Luke Johnson, The Sunday Times
