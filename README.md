@@ -17,6 +17,15 @@ One of the most important things that sound really obvisious is getting your acc
 
 > A payroll is a company's list of its employees, but the term is commonly used to refer to: the total amount of money that a company pays to its employees a company's records of its employees' salaries
 
+#### How to Prepare current month payroll report in [FreeAgent](https://support.freeagent.com/hc/en-gb/articles/115001219450-Setting-up-and-running-payroll)
+
+1. Navigate to "my money" > "Payroll"
+2. Click "Prepare Month x Payroll"
+3. Review the payroll preview
+4. Check the date of payment first, it should be last friday or last day of the month (you can choose)
+5. Click "Run & Report Month x Payroll"
+6. Sign in to Government Gateway using your business ID
+
 ### [PAYE](https://www.freeagent.com/glossary/PAYE/)
 
 > PAYE is short for Pay As You Earn. It's not a tax in its own right, it's a system that HMRC use to collect income tax.
@@ -32,16 +41,6 @@ If your only income is a salary of £25,000 a year, and you are entitled to a pe
 Your employer must deduct this tax from your monthly wages and pay it over to HMRC.
 
 At the same time your employer must also deduct employee's National Insurance from your wages and pay that over to HMRC too.
-
-#### How to Prepare current month payroll report in [FreeAgent](https://support.freeagent.com/hc/en-gb/articles/115001219450-Setting-up-and-running-payroll)
-
-1. Navigate to "my money" > "Payroll"
-2. Click "Prepare Month x Payroll"
-3. Review the payroll preview
-4. Check the date of payment first, it should be last friday or last day of the month (you can choose)
-5. Click "Run & Report Month x Payroll"
-6. Sign in to Government Gateway using your business ID
-
 
 ### [What are assets?](https://www.freeagent.com/glossary/assets/)
 > Assets are what a business owns.
