@@ -57,6 +57,14 @@ Your employer must deduct this tax from your monthly wages and pay it over to HM
 
 At the same time your employer must also deduct employee's National Insurance from your wages and pay that over to HMRC too.
 
+#### How to do this in FreeAgent:
+
+1. Click “Run & Prepare” 
+2. Check the date of payment first (We do this on the last friday or last day of the month)
+3. Click “run and report”
+4. Sign in to GG using your company Government Gateway ID
+
+
 ### [What are assets?](https://www.freeagent.com/glossary/assets/)
 > Assets are what a business owns.
 
