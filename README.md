@@ -41,6 +41,8 @@ One of the most important things that sound really obvisious is getting your acc
 5. Click "Run & Report Month x Payroll"
 6. Sign in to Government Gateway using your business ID
 
+**NOTE**: When you submit payroll it tells HMRC how much they are expected to be paid from your company. Then you will need to transfer this amount to HMRC
+
 ### <a name="paye"></a>[PAYE](https://www.freeagent.com/glossary/PAYE/)
 
 > PAYE is short for Pay As You Earn. It's not a tax in its own right, it's a system that HMRC use to collect income tax.
