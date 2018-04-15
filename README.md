@@ -110,7 +110,10 @@ The table shows the tax rates you pay in each band if you have a standard Person
 2. Click on the latest return
 3. Reconsile any outstanding transactions
 4. Check Reconsiled bills for correct tax
-5. Submit
+5. "File with HMRC"
+6. Check
+7. Submit
+8. Pay the outstanding bill (good to set this up as a direct debit)
 
 
 As a business, you are probably charged VAT on most of the goods and services you buy. That means charging your customers VAT, keeping VAT records and paying the VAT you’ve collected to HMRC.
