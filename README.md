@@ -104,6 +104,15 @@ The table shows the tax rates you pay in each band if you have a standard Person
 
 > **VAT** is levied on most goods and services provided by registered businesses in the UK and some goods and services imported from outside the European Union. There are complex regulations for goods and services imported from within the EU. The default **VAT** rate is the standard rate, 20% since 4 January 2011.
 
+#### VAT in [FreeAgent](https://www.freeagent.com/glossary/vat/)
+
+1. Taxes > VAT
+2. Click on the latest return
+3. Reconsile any outstanding transactions
+4. Check Reconsiled bills for correct tax
+5. Submit
+
+
 As a business, you are probably charged VAT on most of the goods and services you buy. That means charging your customers VAT, keeping VAT records and paying the VAT you’ve collected to HMRC.
 
 Businesses add VAT to the price they charge when they provide goods and services.
