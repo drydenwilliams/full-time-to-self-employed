@@ -95,9 +95,9 @@ The table shows the tax rates you pay in each band if you have a standard Person
 
 | Band        | Taxable income           | Tax rate  |
 | ------------- |:-------------:| -----:|
-| Personal Allowance | Up to £11,500 | 0% |
-| Basic rate | £11,501 to £45,000 | 20% |
-| Higher rate | £45,001 to £150,000 | 40% |
+| Personal Allowance | Up to £11,850 | 0% |
+| Basic rate | 	£11,851 to £46,350 | 20% |
+| Higher rate | £46,351 to £150,000 | 40% |
 | Additional rate	over | over £150,000 | 45% |
 
 ### <a name="vat"></a>[Value Added Tax (VAT)](https://www.sage.com/en-gb/blog/what-is-vat-uk-vat-basics-from-sage/)
@@ -192,7 +192,7 @@ Capital allowances are a means of saving tax when your business buys a capital a
 ### WIP - How do you calculate how much to give as salary and dividend should be paid?
 How ever much you want is based upon the profits so far this financial year and based upon our run rate of X thousand per month.
 
-The Salary takes into account the personal tax limit. If you notice that you get paid 11k/12 = ~£960pm which is tax free. 
+The Salary takes into account the personal tax limit. If you notice that you get paid £11.850 / 12 = £987.5pm which is tax free. 
 Everything paid by dividend them comes under the 50k upper tax bracket. But... dividend tax is less. 
 
 **Note:** A dividend can only be paid if the company has profit
