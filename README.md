@@ -59,6 +59,8 @@ Your employer must deduct this tax from your monthly wages and pay it over to HM
 
 At the same time your employer must also deduct employee's National Insurance from your wages and pay that over to HMRC too.
 
+### [Explaining a transation](https://support.freeagent.com/hc/en-gb/articles/115001218210-What-s-the-difference-between-an-expense-a-bill-and-a-bank-payment-)
+
 
 ### [What are assets?](https://www.freeagent.com/glossary/assets/)
 > Assets are what a business owns.
