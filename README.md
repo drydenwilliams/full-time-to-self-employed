@@ -18,6 +18,14 @@ One of the most important things that sound really obvisious is getting your acc
 ### Each Year
 
 * [Corporation tax](#corporation)
+* [End of year accounts](#end-of-year)
+
+
+What comes under capital expanditure
+
+### <a name="end-of-year"></a>End of year accounts
+These are needed to be submitted to companies house
+
 
 ## Lingo
 
