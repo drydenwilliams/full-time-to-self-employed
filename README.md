@@ -24,8 +24,7 @@ One of the most important things that sound really obvisious is getting your acc
 What comes under capital expanditure
 
 ### <a name="end-of-year"></a>End of year accounts
-These are needed to be submitted to companies house
-
+These are needed to be submitted to companies house. Check over everything that we've bought so we can see if we can save any tax. Also looking at deperication. 
 
 ## Lingo
 
