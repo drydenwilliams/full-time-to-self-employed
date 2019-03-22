@@ -189,8 +189,6 @@ National Insurance is divided into different classes, depending on what kind of 
 
 > The Corporation Tax rate for company profits is 19% *2017*
 
-
-
 **NOTE:** Do this each tax year
 
 ### Taxable profit
@@ -198,6 +196,8 @@ Your profit is the amount that your business has left over once its day-to-day r
 
 If you’re self-employed, you need to pay tax on your "taxable profit" as part of your Income Tax liability. Taxable profit is an adjusted profit figure that's calculated through your tax return each year.
 
+### Reducing your corparation tax bill
+Everything you spend through your company means you are taking away money from any profit. But if like us you're really small and don't really have much expenditure it's easy to end up with a big corparation tax bill. Which is fine, but you could be doing something better with it. Like buying assets that bring in more passive income. Or using this profit to pay into your personal pension (I would reccomend this).
 
 
 ### Capital assets
@@ -233,3 +233,9 @@ Everything paid by dividend them comes under the 50k upper tax bracket. But... d
 ## What should a business achieve 
 
 > A viable company should show a profit, generate an adequate return on its capital, and make surplus cash so it can be able to reinvest. - Luke Johnson, The Sunday Times
+
+
+## Referals and Rewards:
+
+* [Freeagent referal - 45ls8vdg](http://fre.ag/45ls8vdg) - Gets 10% off
+* [PensionBee referal](http://refer.pensionbee.com/mQeFhLR) - Get £50 each from PensionBee
