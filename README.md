@@ -11,7 +11,7 @@ One of the most important things that sound really obvisious is getting your acc
 1. [What is a business](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/what-is-a-business)
 2. [Business as usual](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/business-as-usual)
 3. [Understanding taxes](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/understanding-taxes)
-4. [Lingo](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/lingo)
+4. [Lingo](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/self-employed-lingo)
 5. [Forms & Agreements](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/forms-and-agreements)
 6. [FAQs](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/faqs)
 
