@@ -12,13 +12,14 @@ There is some great software to help with this and I like [Freeagent](https://ww
 
 ## Table of contents
 
-* [What is a business](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/what-is-a-business)
-* [Business as usual](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/business-as-usual)
-* [Understanding taxes](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/understanding-taxes)
-* [Lingo](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/lingo)
-* [Forms & Agreements](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/forms-and-agreements)
-* [FAQs](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/faqs)
-* [Banking & Accounts]()
+
+1. [What is a business](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/what-is-a-business)
+2. [Business as usual](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/business-as-usual)
+3. [Understanding taxes](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/understanding-taxes)
+4. [Lingo](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/self-employed-lingo)
+5. [Forms & Agreements](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/forms-and-agreements)
+6. [FAQs](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/faqs)
+7. [Banking & Accounts]()
 
 ---
 
