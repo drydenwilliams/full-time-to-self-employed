@@ -1,10 +1,14 @@
 # Business as usual
 
-Important things to do each day, month and year
+> An ongoing and unchanging state of affairs despite difficulties or disturbances.
+
+Business as usual is keeping up with the day-to-day business tasks. It's the important things to do each day to keep your business running. Some of these things need to be done daily, monthly, quarterly, and yearly.
+
+It's important to realise that you can't just set up and business and forget about the "boring stuff" like accounts, keeping track of recipts or basic time tracking.
 
 ## Each Day 
 
-Timesheets
+* Timesheets are a great thing to do keep up with. We block these out normally to 15 minute blocks of tasks. 
 
 ### Each Month
 * [Salary](#salary)
