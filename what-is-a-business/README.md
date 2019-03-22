@@ -1,6 +1,6 @@
 # What is a Business?
 
-It may seem like a silly question but it's really not. There are many types of business in the UK. These range from small firms owned and run by just one self-employed person, through to large companies which employ thousands of staff all over the world.
+It may seem like a silly question but it's not. There are so many types of businesses. These range from small firms owned and run by just one self-employed person, through to large companies which employ thousands of staff all over the world.
 
 A **business** is any organisation that makes **goods** or provides **services**.
 * **Goods** are physical products such as burgers or cars. 
