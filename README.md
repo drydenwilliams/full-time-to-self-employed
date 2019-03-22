@@ -4,6 +4,12 @@ Since starting a [Fika Studio](https://www.fika.studio/) I've had so many questi
 
 It's not easy starting a business if you've never studied it or been around one before. There are loads of terms that our extremely confusing and it can feel overwhelming to start with. But with this respository I hope I've consolidated some great articles I've found along the way to help you understand it more.
 
+One of the most important things that sound really obvisious is getting your accounts in order. As a freelancer or a business this is a **must**. But without knowing some basic things this can seem really scary. So checkout the table below to help get you started.
+
+
+
+There is some great software to help with this and I like [Freeagent](https://www.freeagent.com/).
+
 ## Table of contents
 
 * [What is a business](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/what-is-a-business)
@@ -12,6 +18,7 @@ It's not easy starting a business if you've never studied it or been around one 
 * [Lingo](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/lingo)
 * [Forms & Agreements](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/forms-and-agreements)
 * [FAQs](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/faqs)
+* [Banking & Accounts]()
 
 ---
 
