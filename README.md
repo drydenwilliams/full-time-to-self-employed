@@ -1,4 +1,6 @@
-# Company Info
+# Full-time to Self employed
+
+Since starting a [Fika Studio](https://www.fika.studio/) I've had so many questions on becoming self employed. 
 
 It's not easy starting a business if you've never studied it or been around one before. There are loads of terms that our extremely confusing. I've created this document to hopfully helpout with some terms and things to rememeber.
 
