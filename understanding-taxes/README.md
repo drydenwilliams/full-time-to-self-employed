@@ -1,9 +1,24 @@
 # Understanding taxes
 
+> A tax is a mandatory financial charge or some other type of levy imposed upon a taxpayer by a governmental organization in order to fund various public expenditures. - Wiki
 
-## Taxes
+## The main types of tax include:
 
-### Income Tax rates and bands
+* **Income tax** taken off an employee's salary. This results in less money to spend in the shops.
+* **Value added tax (VAT)** added to goods and services. A rise in VAT increases prices.
+* **Corporation tax** is a tax on company profits. A rise in this tax means companies keep less of their profits leading to less company investment and the possible loss of jobs.
+* **National Insurance** contributions are payments made by both the employee and the employer. They pay for the cost of a state pension and the National Health Service. An increase in this tax raises a company's costs and could result in inflation.
+
+### Income tax
+
+> tax levied directly on personal income
+
+Income Tax is tax that's payable on an individual's income, which includes their taxable profit. Every individual can receive a certain amount of income tax-free each year; this is the Personal Allowance. You pay Income Tax on any income you receive in a tax year over and above your Personal Allowance.
+
+The Self Assessment tax return adds up all your taxable income and all the tax you’ve paid so far. The figure it generates is the amount of Income Tax you have to pay by 31st January. You may also have to make a payment on account on 31st July.
+
+
+## Income Tax rates and bands
 
 The table shows the tax rates you pay in each band if you have a standard Personal Allowance of £11,500.
 
@@ -14,11 +29,11 @@ The table shows the tax rates you pay in each band if you have a standard Person
 | Higher rate | £46,351 to £150,000 | 40% |
 | Additional rate	over | over £150,000 | 45% |
 
-### <a name="vat"></a>[Value Added Tax (VAT)](https://www.sage.com/en-gb/blog/what-is-vat-uk-vat-basics-from-sage/)
+## <a name="vat"></a>[Value Added Tax (VAT)](https://www.sage.com/en-gb/blog/what-is-vat-uk-vat-basics-from-sage/)
 
 > **VAT** is levied on most goods and services provided by registered businesses in the UK and some goods and services imported from outside the European Union. There are complex regulations for goods and services imported from within the EU. The default **VAT** rate is the standard rate, 20% since 4 January 2011.
 
-#### VAT in [FreeAgent](https://www.freeagent.com/glossary/vat/)
+## VAT in [FreeAgent](https://www.freeagent.com/glossary/vat/)
 
 1. Taxes > VAT
 2. Click on the latest return
@@ -39,7 +54,7 @@ This applies to both business and non-business customers. For example:
 * A flower wholesaler will add VAT to the amount they charge a florist
 * A beauty salon will include VAT in the price they charge to their customers
 
-#### How will I know when to register for VAT?
+### How will I know when to register for VAT?
 
 If you’ve just started in business or have a relatively low turnover, you’re not required to register for VAT. This means you can’t reclaim the VAT you pay when you purchase goods and services.
 
@@ -53,14 +68,6 @@ Even if you are under the VAT threshold, registering for VAT might boost your pr
 
 **NOTE:** Pay VAT every quarter
 
-### Income tax
-
-> tax levied directly on personal income
-
-Income Tax is tax that's payable on an individual's income, which includes their taxable profit. Every individual can receive a certain amount of income tax-free each year; this is the Personal Allowance. You pay Income Tax on any income you receive in a tax year over and above your Personal Allowance.
-
-The Self Assessment tax return adds up all your taxable income and all the tax you’ve paid so far. The figure it generates is the amount of Income Tax you have to pay by 31st January. You may also have to make a payment on account on 31st July.
-
 ### [What is Self Assesment?](https://www.freeagent.com/glossary/self-assessment/)
 
 > Self Assessment is short for the 'Self Assessment tax return', a form that many business owners need to send to HMRC each year to report how much they have earned and from what sources.
@@ -68,7 +75,6 @@ The Self Assessment tax return adds up all your taxable income and all the tax y
 Tax is usually deducted automatically from wages, pensions and savings. People and businesses with other income must report it in a tax return.
 
 The term 'Self Assessment' actually refers to the fact it's the individual's - or company's - responsibility to work out how much tax he or she should pay. The Self Assessment tax return is usually just called a tax return.
-
 
 ### National Insurance
 
