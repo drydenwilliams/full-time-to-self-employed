@@ -7,9 +7,6 @@ It's not easy starting a business if you've never studied it or been around one 
 One of the most important things that sound really obvisious is getting your accounts in order. As a freelancer or a business this is a **must**. But without knowing some basic things this can seem really scary. So checkout the table below to help get you started.
 
 
-
-There is some great software to help with this and I like [Freeagent](https://www.freeagent.com/).
-
 ## Table of contents
 
 

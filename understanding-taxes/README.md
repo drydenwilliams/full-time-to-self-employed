@@ -103,25 +103,6 @@ A capital asset is an asset that will be useful to your business over a long per
 
 Capital allowances are a means of saving tax when your business buys a capital asset. If you claim capital allowances during the course of the accounting year, you will need to declare it on your Self Assessment tax return.
 
-### WIP - How do you calculate how much to give as salary and dividend should be paid?
-How ever much you want is based upon the profits so far this financial year and based upon our run rate of X thousand per month.
-
-The Salary takes into account the personal tax limit. If you notice that you get paid £11.850 / 12 = £987.5pm which is tax free. 
-Everything paid by dividend them comes under the 50k upper tax bracket. But... dividend tax is less. 
-
-**Note:** A dividend can only be paid if the company has profit
-
-
-#### How to Prepare current month payroll report in [FreeAgent](https://support.freeagent.com/hc/en-gb/articles/115001219450-Setting-up-and-running-payroll)
-
-1. Navigate to "my money" > "Payroll"
-2. Click "Prepare Month x Payroll"
-3. Review the payroll preview
-4. Check the date of payment first, it should be last friday or last day of the month (you can choose)
-5. Click "Run & Report Month x Payroll"
-6. Sign in to Government Gateway using your business ID
-
-**NOTE**: When you submit payroll it tells HMRC how much they are expected to be paid from your company. Then you will need to transfer this amount to HMRC
 
 ### <a name="paye"></a>[PAYE](https://www.freeagent.com/glossary/PAYE/)
 
