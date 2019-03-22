@@ -8,11 +8,11 @@ One of the most important things that sound really obvisious is getting your acc
 
 ## Table of contents
 
-* [Business as usual]()
-* [Understanding taxes]()
-* [Lingo]()
-* [Forms & Agreements]()
-* [FAQs]()
+* [Business as usual](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/business-as-usual)
+* [Understanding taxes](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/understanding-taxes)
+* [Lingo](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/lingo)
+* [Forms & Agreements](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/forms-and-agreements)
+* [FAQs](https://github.com/drydenwilliams/full-time-to-self-employed/tree/master/faqs)
 
 ## Lingo
 
